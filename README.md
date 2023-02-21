@@ -1,5 +1,5 @@
 # Kotlin Fractions
-Simple kotlin library for fractions.
+Simple Kotlin library for fractions, which I created while learning Kotlin.
 
 ## Installation
 
